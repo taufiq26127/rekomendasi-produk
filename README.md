@@ -6,7 +6,7 @@ User-Based Collaborative Filtering (UB-CF) merekomendasikan item suatu produk de
 ![alt text](https://github.com/taufiq26127/rekomendasi-produk/blob/main/apps/user-based.png?raw=true)
 
 ## Test
-<img src="https://github.com/taufiq26127/rekomendasi-produk/blob/main/apps/user-based.png?raw=true" alt="Deskripsi Gambar" width="300"/>
+<img src="https://github.com/taufiq26127/rekomendasi-produk/blob/main/apps/user-based.png?raw=true" alt="Deskripsi Gambar" width="600"/>
 
 
 ## Hasil
